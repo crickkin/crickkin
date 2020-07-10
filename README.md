@@ -1,4 +1,6 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1289490/762b754fb585804551b2ca56574fce3b408fe471.jpg">
+
+### Yowzah 👋
 
 <!--
 **crickkin/crickkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
