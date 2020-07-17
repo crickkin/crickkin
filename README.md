@@ -7,7 +7,7 @@ I'm a Programmer focused on the Game Development area, but I also work with mobi
 I have successfully developed from start to finish some games through the years, 
 publishing some of them on Gamejolt, Play Store, and more recently on Steam.
 
-Developer of <a href="https://store.steampowered.com/app/1289490/Dungeon_Solver/" target="_blank">Dungeon Solver</a>
+Developer of <a href="https://store.steampowered.com/app/1289490/Dungeon_Solver/">Dungeon Solver</a>
 
 ## Skills
 - Unity C#
