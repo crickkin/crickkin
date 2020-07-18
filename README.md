@@ -1,6 +1,6 @@
 <img align="right" width="230" height="230" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1289490/762b754fb585804551b2ca56574fce3b408fe471.jpg">
 
-# Yowzah! 👋
+# Yowzah! 🎩
 ## I'm Nícolas aka Crickkin in the Game Dev Community!
 
 I'm a Programmer focused on the Game Development area, but I also work with mobile and web sometimes. 
