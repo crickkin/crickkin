@@ -1,8 +1,8 @@
-<img align="right" width="230" height="230" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1289490/762b754fb585804551b2ca56574fce3b408fe471.jpg">
-
-# Yowzah! 🎩
-## I'm Nícolas aka Crickkin in the Game Dev Community!
-
+<div align="center">
+  <h1>Yowzah! 🎩</h1>
+  <h2>I'm Nícolas aka Crickkin in the Game Dev Community!</h2>
+</div>
+  
 I'm a Programmer focused on the Game Development area, but I also work with mobile and web sometimes. 
 I have successfully developed from start to finish some games through the years, 
 publishing some of them on Gamejolt, Play Store, and more recently on Steam.
@@ -20,6 +20,11 @@ Developer of <a href="https://store.steampowered.com/app/1289490/Dungeon_Solver/
   <!--a href="" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank">
   </a-->
+  <!--div align="left">
+    <a align="left" text-weight="bold">
+      <img width="50" height="50" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1289490/762b754fb585804551b2ca56574fce3b408fe471.jpg"> Dungeon Solver
+    </a>
+  </div-->
 </div>
 
 <div align="center">
@@ -32,25 +37,13 @@ Developer of <a href="https://store.steampowered.com/app/1289490/Dungeon_Solver/
   </a>
 </div>
 
-##
-
 ## Skills
-- Unity C#
-- Game Maker Studio 2
-- React Native
-- ReactJs
 
-<!--
-**crickkin/crickkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="25" src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969"> **Unity C#**</br>
+<img height="25" src="https://cdn.discordapp.com/emojis/761076486454378506.webp"> **Game Maker Studio 2**</br>
+<img height="25" src="https://services.google.com/fh/files/newsletters/firebase.png"> **Firebase**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align= "center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=crickkin&theme=radical&show_icons=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crickkin&theme=radical&layout=compact&hide=html&count_private=true" />
+</div>
