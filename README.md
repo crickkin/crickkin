@@ -41,7 +41,8 @@ publishing some of them on Gamejolt, Play Store, and more recently on Steam.
 
 <img height="25" src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969"> **Unity C#**</br>
 <img height="25" src="https://cdn.discordapp.com/emojis/761076486454378506.webp"> **Game Maker Studio 2**</br>
-<img height="25" src="https://services.google.com/fh/files/newsletters/firebase.png"> **Firebase**
+<img height="25" src="https://services.google.com/fh/files/newsletters/firebase.png"> **Firebase**</br>
+<img height="25" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"> **Git**
 
 <div align= "center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=crickkin&theme=radical&show_icons=true&include_all_commits=true&count_private=true&layout=compact" />
