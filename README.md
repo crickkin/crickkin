@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
   <h1>Yowzah! 🎩</h1>
-  <h2>I'm Nícolas aka Crickkin in the Game Dev Community!</h2>
+  <h2>Profile</h2>
 </div>
   
 I'm a Programmer focused on the Game Development area, but I also work with mobile and web sometimes. 
@@ -9,7 +9,7 @@ publishing some of them on Gamejolt, Play Store, and more recently on Steam.
 
 <!-- Developer of <a href="https://store.steampowered.com/app/1289490/Dungeon_Solver/">Dungeon Solver</a> -->
 
-<div align="center">
+<!--div align="center">
   <h2> Games Worked on </h2>
   <a href="https://store.steampowered.com/app/1289490/Dungeon_Solver/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
@@ -20,18 +20,18 @@ publishing some of them on Gamejolt, Play Store, and more recently on Steam.
   <!--a href="" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank">
   </a-->
-  <!--div align="left">
-    <a align="left" text-weight="bold">
-      <img width="50" height="50" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1289490/762b754fb585804551b2ca56574fce3b408fe471.jpg"> Dungeon Solver
-    </a>
-  </div-->
-</div>
+</div-->
 
-<div align="center">
+<div align="left">
   <h2> Contact </h2>
+  <a href="https://nicolas-souza-portifolio.notion.site/N-colas-Ferreira-de-Souza-8d8645fee294475a88887ddc47c62995" target="_blank">
+    💻 portifolio
+  </a>
+  <br>
   <a href="https://www.linkedin.com/in/n%C3%ADcolas-souza-8771a7206/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+  <br>
   <a href="https://twitter.com/_crickkin_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
