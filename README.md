@@ -3,9 +3,9 @@
   <h2>Profile</h2>
 </div>
   
-I'm a Programmer focused on the Game Development area, but I also work with mobile and web sometimes. 
-I have successfully developed from start to finish some games through the years, 
-publishing some of them on Gamejolt, Play Store, and more recently on Steam.
+I'm a Programmer focused on the Game Development, using mostly Unity and Game Maker Studio as tools. 
+I have successfully developed from start to finish some games through this years, 
+publishing some of them on Gamejolt, Play Store, and Steam.
 
 see my <a href="https://nicolas-souza-portifolio.notion.site/N-colas-Ferreira-de-Souza-8d8645fee294475a88887ddc47c62995" target="_blank">portifolio 💻</a>
 
