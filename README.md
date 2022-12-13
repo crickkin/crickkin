@@ -7,7 +7,7 @@ I'm a Programmer focused on the Game Development, using mostly Unity and Game Ma
 I have successfully developed from start to finish some games through this years, 
 publishing some of them on Gamejolt, Play Store, and Steam.
 
-see my <a href="https://nicolas-souza-portifolio.notion.site/N-colas-Ferreira-de-Souza-8d8645fee294475a88887ddc47c62995" target="_blank">portifolio 💻</a>
+see my <a href="https://crickkin.notion.site/N-colas-Souza-Portifolio-8d8645fee294475a88887ddc47c62995" target="_blank">portifolio 💻</a>
 
 <div align="left">
   <h2> Contact </h2>
