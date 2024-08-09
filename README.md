@@ -28,6 +28,6 @@ see my <a href="https://crickkin.notion.site/crickkin/N-colas-Souza-Portifolio-0
 <img height="25" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"> **Git**
 
 <div align= "center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=crickkin&theme=radical&show_icons=true&include_all_commits=true&count_private=true&layout=compact" />
+  <!--img height="190" src="https://github-readme-stats.vercel.app/api?username=crickkin&theme=radical&show_icons=true&include_all_commits=true&count_private=true&layout=compact" /-->
   <img width="308" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crickkin&theme=radical&layout=donut&hide=html,c" />
 </div>
